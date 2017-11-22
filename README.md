@@ -1,5 +1,4 @@
-# eop
-The Elevation of Privilege Threat Modeling Game
+# The *Elevation of Privilege* Threat Modeling Game
 
 I created Elevation of Privilege while at Microsoft.  I'm creating this repository to have a single location for bugfixes, encourage more derivative work, and all the other goodness that a git repository can bring.
 At https://www.microsoft.com/en-us/download/details.aspx?id=20303, Microsoft released these under a CC-BY-3.0 license; all these files are maintained under the same license.
