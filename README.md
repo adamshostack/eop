@@ -11,3 +11,8 @@ There are a set of variants which I track on the threat modeling book website, h
 The most complete source of information on the cards is Appendix D of _Threat Modeling: Designing for Security_.  Even if you don't have a copy of the book, you can often see the appendix via Amazon or Google "look inside" features.
 
 * The Queen of Information Disclosure differs from the King because with the Queen, messages may be encrypted, even if the channel is not.
+
+## Privacy variants
+There are two independently created privacy variants:
+* https://blog.logmeininc.com/privacy-by-design-can-be-entertaining/
+* https://github.com/F-Secure/elevation-of-privacy
