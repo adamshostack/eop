@@ -10,3 +10,4 @@
     * Point out the strategy and play flowcharts for reference.
 5. Play!
     * Make sure people take notes on the threats
+    * Some people will play collaboratively with their hands face up in front of them, others competitively, with cards close to their chest.
