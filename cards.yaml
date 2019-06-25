@@ -46,7 +46,7 @@ suits:
     7: An attacker can bypass permissions because you don't make names canonical before checking access permissions
     8: An attacker can manipulate data because there's no integrity protection for data on the network
     9: An attacker can provide or control state information
-    10: An attacker can alter information in a data store because it has weak ACLs or includes a group which is equivalent to everyone ("anyone with a Facebook account")
+    10: An attacker can alter information in a data store because it has weak/open permissions or includes a group which is equivalent to everyone ("anyone with a Facebook account")
     J: An attacker can write to some resource because permissions are granted to the world or there are no ACLs
     Q: An attacker can change parameters over a trust boundary and after validation (for example, important parameters in a hidden field in HTML, or passing a pointer to critical memory)
     K: An attacker can load code inside your process via an extension point
