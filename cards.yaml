@@ -84,11 +84,11 @@ suits:
 
   Denial of Service:
     2: An attacker can make your authentication system unusable or unavailable
-    3: An attacker can make a client unavailable or unusable but the problem goes away when the attacker stops
-    4: An attacker can make a server unavailable or unusable but the problem goes away when the attacker stops
-    5: An attacker can make a client unavailable or unusable without ever authenticating but the problem goes away when the attacker stops
-    6: An attacker can make a server unavailable or unusable without ever authenticating but the problem goes away when the attacker stops
-    7: An attacker can make a client unavailable or unusable and the problem persists after the attacker goes away
+    3: An attacker can drain our easily replacable battery
+    4: An attacker can drain a battery that's hard to replace (sealed in a phone, an implanted medical device, or in a hard to reach location)
+    5: An attacker can spend our cloud budget
+    6: An attacker can make a server unavailable or unusable without ever authenticating but the problem goes away when the attacker stops (server, anonymous, temporary)
+    7: An attacker can make a client unavailable or unusable and the problem persists after the attacker goes away (server,
     8: An attacker can make a server unavailable or unusable and the problem persists after the attacker goes away
     9: An attacker can make a client unavailable or unusable without ever authenticating and the problem persists after the attacker goes away
     10: An attacker can make a server unavailable or unusable without ever authenticating and the problem persists after the attacker goes away
