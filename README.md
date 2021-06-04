@@ -14,5 +14,5 @@ The most complete source of information on the cards is Appendix D of _Threat Mo
 
 ## Privacy variants
 There are two independently created privacy variants:
-* https://blog.logmeininc.com/privacy-by-design-can-be-entertaining/ (Mark Vinkovits)
+* One found here, which was released originally by LogMeIn under CC-BY-3.0: https://blog.logmeininc.com/privacy-by-design-can-be-entertaining/ (Mark Vinkovits)
 * https://github.com/F-Secure/elevation-of-privacy (Marko Hämäläinen, Laura Noukka, Hiski Ruhanen, Ilona Varis, Antti Vähä-Sipilä)
