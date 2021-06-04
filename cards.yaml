@@ -108,3 +108,18 @@ suits:
     Q: You include user-generated content within your page, possibly including the content of random URLs
     K: An attacker can inject a command that the system will run at a higher privilege level
     A: You've invented a new Elevation of Privilege attack
+   
+  Privacy:
+    2: Your system does not ship by default with optimized, privacy-friendly settings.
+    3: Your system is not able to properly handle withdrawal of consent or objection to processing.
+    4: Your system collects consent but is not documenting aspects as to how, when, and to what consent was provided.
+    5: Personal data in your system is missing pointers to data subjects, hence the data is forgotten when the owner is deleted or makes a request for access.
+    6: Your system collects more personal data than strictly necessary to fulfill the intended purpose.
+    7: Your system is not following through on personal data deletion in integrated 3rd parties.
+    8: Your system is collecting personal data without being able to name the specified, explicit and legitimate purpose it is used for.
+    9: Your product team avoids the existing and prescribed controls for personal data by copying personal data out of the regulated and hardened environments.
+    10: Your system does not implement erasure or anonymization of personal data once the legal ground for processing has been withdrawn.
+    J: Your system is processing personal data in countries or with 3rd parties which have weak privacy standards.
+    Q: Your system is processing personal data in a way that is not described in the privacy notice or is unexpected to the data subjects.
+    K: Your system reuses personal data collected for a specific purpose for a non-compatible other purpose.
+    A: You've invented a new Privacy violation.
