@@ -76,8 +76,8 @@ suits:
     6: An attacker can read data because it's hidden or occluded (for undo or change tracking) and the user might forget that it's there
     7: An attacker can act as a 'man in the middle' because you don't authenticate endpoints of a network connection
     8: An attacker can access information through a search indexer, logger, or other such mechanism
-    9: An attacker can read sensitive information in a file with bad ACLs
-    10: An attacker can read information in files with no ACLs
+    9: An attacker can read sensitive information in a file with permissive permissions
+    10: An attacker can read information in files or databases with no access controls
     J: An attacker can discover the fixed key being used to encrypt
     Q: An attacker can read the entire channel because the channel (say, HTTP or SMTP) isn't encrypted
     K: An attacker can read network information because there's no cryptography used
