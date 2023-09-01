@@ -39,8 +39,8 @@ suits:
     A: You've invented a new Spoofing attack
 
   Tampering:
-    2: An attacker can modify your build system and produce signed builds of your software
-    3: An attacker can take advantage of your custom key exchange or integrity control which you built instead of using standard crypto
+    2: An attacker can take advantage of your custom key exchange or integrity control which you built instead of using standard crypto
+    3: An attacker can modify your build system and produce signed builds of your software
     4: Your code makes access control decisions all over the place, rather than with a security kernel
     5: An attacker can replay data without detection because your code doesn't provide timestamps or sequence numbers
     6: An attacker can write to a data store your code relies on
