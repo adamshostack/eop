@@ -16,3 +16,6 @@ The most complete source of information on the cards is Appendix D of _Threat Mo
 There are two independently created privacy variants:
 * https://blog.logmeininc.com/privacy-by-design-can-be-entertaining/ (Mark Vinkovits)
 * https://github.com/F-Secure/elevation-of-privacy (Marko Hämäläinen, Laura Noukka, Hiski Ruhanen, Ilona Varis, Antti Vähä-Sipilä)
+
+## Machine Learning Security (MLsec) variants
+There is a machine learning security variant: [https://github.com/kantega/elevation-of-mlsec](https://github.com/kantega/elevation-of-mlsec) (Elias Brattli Sørensen, Jorun Kristin Bremseth, Emil Jakobus Schroeder, Edvard Kristoffer Karlsen, August Heltne).
