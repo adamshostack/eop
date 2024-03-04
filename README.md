@@ -18,4 +18,4 @@ There are two independently created privacy variants:
 * https://github.com/F-Secure/elevation-of-privacy (Marko Hämäläinen, Laura Noukka, Hiski Ruhanen, Ilona Varis, Antti Vähä-Sipilä)
 
 ## Machine Learning Security (MLsec) variants
-There is a machine learning security variant: [https://github.com/kantega/elevation-of-mlsec](https://github.com/kantega/elevation-of-mlsec) (Elias Brattli Sørensen, Jorun Kristin Bremseth, Emil Jakobus Schroeder, Edvard Kristoffer Karlsen, August Heltne).
+There is a machine learning security variant: [https://github.com/kantega/elevation-of-mlsec](https://github.com/kantega/elevation-of-mlsec) (Elias Brattli Sørensen and Jorun Kristin Bremseth)
