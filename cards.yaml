@@ -24,7 +24,7 @@ ranks:
   A: Ace
 suits:
   Spoofing:
-    2: An attacker could take over the port or socket that the server normally uses.
+    2: An attacker could take over the port or socket that the server normally uses
     3: An attacker could try one credential after another and there's nothing to slow them down (online or offline)
     4: An attacker can anonymously connect, because we expect authentication to be done at a higher level
     5: An attacker can confuse a client because there are too many ways to identify a server
